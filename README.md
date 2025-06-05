@@ -1,2 +1,0 @@
-# allure-test
-allure-test
