@@ -21,6 +21,9 @@ jobs:
 #
 #      - name: Run tests
 #        run: ./gradlew clean test
+      - name: make allure-history dir
+        run: |
+          mkdir -p allure-history
 
       - name: Load test report history
         uses: actions/checkout@v4
