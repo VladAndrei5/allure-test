@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Jun 04 21:13:03 UTC 2025","Wed Jun 04 21:13:03 UTC 2025","0","tests","test_sample","","","","Test that always fails","This test is supposed to fail for demonstration."
+"passed","Wed Jun 04 21:13:03 UTC 2025","Wed Jun 04 21:13:03 UTC 2025","0","tests","test_sample","","","","Test that always passes","This is a simple test that always passes."
+"passed","Wed Jun 04 21:13:03 UTC 2025","Wed Jun 04 21:13:03 UTC 2025","0","tests","test_sample","","","","Test with steps","This test shows how to use Allure steps."
