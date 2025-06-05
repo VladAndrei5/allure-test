@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This is a simple test that always passes.","0","Test that always passes","tests","Thu Jun 05 22:44:04 GMT 2025","passed","Thu Jun 05 22:44:04 GMT 2025","","test_sample","",""
+"This test shows how to use Allure steps.","0","Test with steps","tests","Thu Jun 05 22:44:04 GMT 2025","passed","Thu Jun 05 22:44:04 GMT 2025","","test_sample","",""
+"This test is supposed to fail for demonstration.","0","Test that always fails","tests","Thu Jun 05 22:44:04 GMT 2025","failed","Thu Jun 05 22:44:04 GMT 2025","","test_sample","",""
